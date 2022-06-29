@@ -1,4 +1,4 @@
-# API 和Debug API
+# API参考
 
 Hop节点公开了两个 HTTP API 端点`API`和`Debug API`完成查看运行节点的主要接口。可以使用熟悉的 HTTP 请求进行查询，并将在适当的情况下以语义上准确的[HTTP 状态和错误代码](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)以及[JSON](https://www.json.org/json-en.html)格式的数据有效负载进行响应。
 
